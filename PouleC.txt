@@ -1,8 +1,0 @@
-eq1	eq2	score	bo1	bd1	bo2	bd2
-Tonga	Georgie	10-17	0	1	0	0	
-NZ	Argentine	26-16	0	0	0	0
-NZ	Namibie	58-14	1	0	0	0	
-Argentine	Georgie	54-9	1	0	0	0
-Tonga	Namibie	35-21	1	0	0	0
-NZ	Georgie	43-10	1	0	0	0
-Argentine	Tonga	45-16	1	0	0	0
