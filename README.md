@@ -1,4 +1,4 @@
-LabView Real rime project of :
+LabView Real Time project of :
 - Karrai Leith
 - Bouhaben Sean
 - Aira-Benvenuti Denis
